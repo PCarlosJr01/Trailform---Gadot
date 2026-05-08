@@ -13,7 +13,7 @@ script = ExtResource("1_3vyb7")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1107357950]
 shape = SubResource("CircleShape2D_g2els")
 
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1892971721]
+[node name="FaceSprite" type="Sprite2D" parent="." unique_id=1892971721]
 texture_filter = 1
 scale = Vector2(1.2, 1.2)
 texture = SubResource("CompressedTexture2D_3vyb7")
