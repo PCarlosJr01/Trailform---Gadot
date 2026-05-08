@@ -14,6 +14,7 @@ config/name="Trailform"
 run/main_scene="uid://dy6jyypej1xvw"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
+config/windows_native_icon="res://assets/icons/trailform_icon.png"
 
 [display]
 
